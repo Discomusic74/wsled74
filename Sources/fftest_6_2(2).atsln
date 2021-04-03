@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "fftest", "fftest\fftest_6_2(2).cproj", "{31027E28-0F85-4A6F-A7CF-C7FE69BD98BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31027E28-0F85-4A6F-A7CF-C7FE69BD98BE}.default|AVR.ActiveCfg = default|AVR
+		{31027E28-0F85-4A6F-A7CF-C7FE69BD98BE}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
